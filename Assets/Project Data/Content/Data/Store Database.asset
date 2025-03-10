@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7849743226bbdfc4b94365052ad63b65, type: 3}
+  m_Name: Store Database
+  m_EditorClassIdentifier: 
+  tabs:
+  - uniqueId: 10.10.2023 18:22:10_346928
+    type: 0
+    previewType: 0
+    previewPrefab: {fileID: 0}
+    backgroundColor: {r: 0.49411765, g: 0.8666667, b: 1, a: 1}
+    productBackgroundColor: {r: 0.5176471, g: 0.3921569, b: 0.34117648, a: 1}
+  products:
+  - uniqueId: 1
+    isExpanded: 0
+    id: 0
+    tabId: 0
+    isDummy: 0
+    name: Player 1
+    openedSprite: {fileID: 21300000, guid: 334eaae949a61a048a86b56e053663e0, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 334eaae949a61a048a86b56e053663e0, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 334eaae949a61a048a86b56e053663e0, type: 3}
+    skin: {fileID: 2800000, guid: b0379a0783e72894d9669f0bc22627b9, type: 3}
+    prefab: {fileID: 1697739096018267998, guid: 30a4f27278d5fdc4c91b88b0aa03dabb,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 2
+    isExpanded: 0
+    id: 1
+    tabId: 0
+    isDummy: 0
+    name: Player 2
+    openedSprite: {fileID: 21300000, guid: 4e7e45b1657b4024cbbdd7483c3cd25b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 4e7e45b1657b4024cbbdd7483c3cd25b, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 4e7e45b1657b4024cbbdd7483c3cd25b, type: 3}
+    skin: {fileID: 2800000, guid: fdb26b27611bd2e4aa25c4974450f730, type: 3}
+    prefab: {fileID: 9134069910050453479, guid: 64e5c915db8bf81429bb3a163fbb8ded,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 250
+  - uniqueId: 3
+    isExpanded: 0
+    id: 2
+    tabId: 0
+    isDummy: 0
+    name: Player 3
+    openedSprite: {fileID: 21300000, guid: 286fad5fd0bfd98428a9c161c0c39a34, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 286fad5fd0bfd98428a9c161c0c39a34, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 286fad5fd0bfd98428a9c161c0c39a34, type: 3}
+    skin: {fileID: 2800000, guid: 95f603a0f8a815e4f9d1f8caa54132c2, type: 3}
+    prefab: {fileID: 7459336889291682013, guid: fed91b449b81f904a970ab69115e4b28,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 1
+    currency: 0
+    cost: 1
+  - uniqueId: 4
+    isExpanded: 0
+    id: 3
+    tabId: 0
+    isDummy: 0
+    name: Player 3
+    openedSprite: {fileID: 21300000, guid: 2f5eb98da5560614d986e9bcc06742a6, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 2f5eb98da5560614d986e9bcc06742a6, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 2f5eb98da5560614d986e9bcc06742a6, type: 3}
+    skin: {fileID: 2800000, guid: 3eaa869b330c1dd4792ad309df1bef93, type: 3}
+    prefab: {fileID: 7459336889291682013, guid: fed91b449b81f904a970ab69115e4b28,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 750
+  - uniqueId: 5
+    isExpanded: 0
+    id: 4
+    tabId: 0
+    isDummy: 0
+    name: Player 3
+    openedSprite: {fileID: 21300000, guid: 8a77ff00242037a48b5f00fe06bc8294, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 8a77ff00242037a48b5f00fe06bc8294, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 8a77ff00242037a48b5f00fe06bc8294, type: 3}
+    skin: {fileID: 2800000, guid: 7f274a28b36f55c418c02f4c172ae4c5, type: 3}
+    prefab: {fileID: 7459336889291682013, guid: fed91b449b81f904a970ab69115e4b28,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 1000
+  - uniqueId: 6
+    isExpanded: 0
+    id: 5
+    tabId: 0
+    isDummy: 0
+    name: Player 3
+    openedSprite: {fileID: 21300000, guid: d6e93d0f2fa07974caa312ac1428ae31, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d6e93d0f2fa07974caa312ac1428ae31, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: d6e93d0f2fa07974caa312ac1428ae31, type: 3}
+    skin: {fileID: 2800000, guid: b953693c578509e49899e3fbf79d7376, type: 3}
+    prefab: {fileID: 7459336889291682013, guid: fed91b449b81f904a970ab69115e4b28,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 1
+    currency: 0
+    cost: 1
+  - uniqueId: 7
+    isExpanded: 0
+    id: 6
+    tabId: 0
+    isDummy: 0
+    name: Player 3
+    openedSprite: {fileID: 21300000, guid: 4c91687fefb6fb84ba27e471e4f34ea8, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 4c91687fefb6fb84ba27e471e4f34ea8, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 4c91687fefb6fb84ba27e471e4f34ea8, type: 3}
+    skin: {fileID: 2800000, guid: 20e442495a679dc4db8f22b8b6902ae0, type: 3}
+    prefab: {fileID: 7459336889291682013, guid: fed91b449b81f904a970ab69115e4b28,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 1500
+  - uniqueId: 9
+    isExpanded: 0
+    id: 8
+    tabId: 0
+    isDummy: 0
+    name: Player 3
+    openedSprite: {fileID: 21300000, guid: ff5e5ef9d63f41b4a91e5b476b559cc6, type: 3}
+    lockedSprite: {fileID: 21300000, guid: ff5e5ef9d63f41b4a91e5b476b559cc6, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: ff5e5ef9d63f41b4a91e5b476b559cc6, type: 3}
+    skin: {fileID: 2800000, guid: 748e0d7148614f04c9038f2b24aaa9c0, type: 3}
+    prefab: {fileID: 7459336889291682013, guid: fed91b449b81f904a970ab69115e4b28,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 2000
+  - uniqueId: 10
+    isExpanded: 0
+    id: 9
+    tabId: 0
+    isDummy: 0
+    name: Player 3
+    openedSprite: {fileID: 21300000, guid: b00a2a8e9e21aae4dbc0bd6a0d32ecfc, type: 3}
+    lockedSprite: {fileID: 21300000, guid: b00a2a8e9e21aae4dbc0bd6a0d32ecfc, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: b00a2a8e9e21aae4dbc0bd6a0d32ecfc, type: 3}
+    skin: {fileID: 2800000, guid: 25792630d88c6604aaf40165c913397b, type: 3}
+    prefab: {fileID: 7459336889291682013, guid: fed91b449b81f904a970ab69115e4b28,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 1
+    currency: 0
+    cost: 1
+  TabTypes: 00000000
+  coinsForAdsAmount: 100
+  currencyForAds: 0
