@@ -29,7 +29,7 @@ public class MultiTextUI : MonoBehaviour
 
     private TMP_Text _text;
 
-    public static string lang;
+    public static string lang = "ru";
 
     private void Start()
     {
